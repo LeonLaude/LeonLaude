@@ -10,7 +10,7 @@ I mainly focus on PowerShell scripts for Microsoft Windows Server, Hyper-V and S
 </p>
 
 ### Find me elsewhere
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/LeonLaude">
     <img src="https://github.com/LeonLaude/LeonLaude/blob/master/Resources/Twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
