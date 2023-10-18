@@ -12,10 +12,6 @@ I mainly focus on PowerShell scripts for Microsoft Windows Server, Hyper-V and S
   <a href="https://www.linkedin.com/in/leonlaude/">
     <img src="https://github.com/LeonLaude/LeonLaude/blob/master/Resources/LinkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
-
-  <a href="https://www.instagram.com/leonlaude/">
-    <img src="https://github.com/LeonLaude/LeonLaude/blob/master/Resources/Instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
 </p>
 
 <hr>
